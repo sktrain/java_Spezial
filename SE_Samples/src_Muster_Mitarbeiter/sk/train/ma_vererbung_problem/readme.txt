@@ -1,0 +1,1 @@
+Basisversion der Mitarbeiterklasse und Kindklasse Arbeiter mit Vererbungsproblem
