@@ -6,7 +6,7 @@ Version für Metzler
   	Maven_Samples		-- Maven-Beispiele
   	SE_Samples		-- Beispiele zur SE als Eclipse-Projekte
 
-   	H2-Databas		-- Resourcen für H2
+   	H2-Database		-- Resourcen für H2
 	
 	
 		
