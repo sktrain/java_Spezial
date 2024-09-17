@@ -1,5 +1,5 @@
 # java_Spezial
-Version für Metzler
+Maven
 
 	Folien		-- Folien zum Seminar im pdf-Format
 	
