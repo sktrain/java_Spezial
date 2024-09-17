@@ -8,7 +8,7 @@ Version für Metzler
 	Samples_JDBC_JPA_Spring_SpringBoot  -- Restliche Beispiele als Maven-Projekte
 
    	H2-Database		-- Resourcen für H2
-    Oracle-Database		-- Resourcen für Oracle
+    Oracle-Database	-- Resourcen für Oracle
 	
 		
 	
