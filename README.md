@@ -7,7 +7,8 @@ Version für Metzler
    	Java_Basics_Ueb		-- Übungsszenario zu Java_Basics (Mitarbeiterverwaltung)
     Java_Basics_Loes	-- Mögliche Lösungen zum Übungsszenario
 
-    Maven_Samples		-- Maven-Beispiele
+    Maven				    -- Beispiele und Übungen zu Maven
+    
 	Samples_JDBC_JPA_Spring_SpringBoot  -- Restliche Beispiele als Maven-Projekte
 
    	H2-Database		-- Resourcen für H2
