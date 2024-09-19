@@ -8,6 +8,8 @@ Version für Metzler
     Java_Basics_Loes	-- Mögliche Lösungen zum Übungsszenario
 
     Maven				    -- Beispiele und Übungen zu Maven
+
+    Spring				    -- Beispiele und Übungen zu Spring
     
 	Samples_JDBC_JPA_Spring_SpringBoot  -- Restliche Beispiele als Maven-Projekte
 
