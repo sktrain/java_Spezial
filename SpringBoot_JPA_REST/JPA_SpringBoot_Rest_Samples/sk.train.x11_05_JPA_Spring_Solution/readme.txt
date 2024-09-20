@@ -1,0 +1,1 @@
+JPA durch Spring gemanaged + deklarative Transaktionsunterstützung
