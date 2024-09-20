@@ -10,8 +10,10 @@ Version für Metzler
     Maven				    -- Beispiele und Übungen zu Maven
 
     Spring				    -- Beispiele und Übungen zu Spring
+
+    SpringBoot_JPA_REST		-- Beispiele zu JPA, Spring Boot und REST
     
-	Samples_JDBC_JPA_Spring_SpringBoot  -- Restliche Beispiele als Maven-Projekte
+	
 
    	H2-Database		-- Resourcen für H2
     Oracle-Database		-- Resourcen für Oracle
