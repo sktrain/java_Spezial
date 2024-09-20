@@ -1,0 +1,1 @@
+Rest mit JPA, Spring Boot und ensprechender Fehlerbehandlung bzw. Statuscodes
