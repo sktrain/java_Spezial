@@ -1,0 +1,2 @@
+Erzeugen Sie via Spring mehrere Klavier- und Gitarrenspieler und rufen Sie deren play-Methode auf.
+Jeder Musiker sollte sein eigenes Instrument haben!
